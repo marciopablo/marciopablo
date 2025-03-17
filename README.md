@@ -1,9 +1,12 @@
+
 ### Olá! Eu sou o Márcio Pablo 🖐🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciopablo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciopablo&layout=compact)
 
 ### Tecnologias com as quais trabalho
 
