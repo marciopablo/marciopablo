@@ -1,12 +1,11 @@
-
 ### Olá! Eu sou o Márcio Pablo 🖐🏼
+
+Apaixonado por tecnologia, matemática, lógica e educação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciopablo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciopablo&layout=compact)
 
 ### Tecnologias com as quais trabalho
 
@@ -17,7 +16,8 @@
  <img aling="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-Entusiasta dos diversos campos da tecnologia da informação e suas aplicabilidades. Apaixonado por matemática, lógica e educação.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciopablo&layout=compact)
 
 ### Outros contatos:
+
 - [marciopablo014@gmail.com]()<br/>
