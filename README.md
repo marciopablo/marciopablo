@@ -5,10 +5,14 @@ Apaixonado por tecnologia, matemática, lógica e educação.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciopablo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_pablo.1/)
 
+
 <div style="display: flex;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciopablo&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciopablo&layout=compact&theme=tokyonight"/>
 </div>
+
+
+<img src="https://raw.githubusercontent.com/marciopablo/marciopablo/output/snake.svg" alt="Snake animation" />
 
 
 ### Tecnologias que utilizo:
@@ -26,3 +30,5 @@ Apaixonado por tecnologia, matemática, lógica e educação.
 ### Outros contatos:
 
 - [marciopablo014@gmail.com]()<br/>
+
+---
