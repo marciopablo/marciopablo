@@ -1,9 +1,6 @@
 ### Olá! Me Chamo Márcio Pablo 🖐🏼
 
-Apaixonado por tecnologia, matemática, lógica e educação.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciopablo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_pablo.1/)
+- Apaixonado por tecnologia, matemática, lógica e educação.
 
 
 <div style="display: flex;">
@@ -13,6 +10,8 @@ Apaixonado por tecnologia, matemática, lógica e educação.
 
 
 <img src="https://raw.githubusercontent.com/marciopablo/marciopablo/output/snake.svg" alt="Snake animation" />
+
+---
 
 
 ### Tecnologias que utilizo:
@@ -26,9 +25,11 @@ Apaixonado por tecnologia, matemática, lógica e educação.
  <img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div><br/>
 
+---
 
-### Outros contatos:
-
-- [marciopablo014@gmail.com]()<br/>
+### Contatos:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciopablo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_pablo.1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marciopablo014@gmail.com)
 
 ---
